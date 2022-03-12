@@ -1,0 +1,5 @@
+Python 3.9.2
+
+beautifulsoup4==4.10.0
+bs4==0.0.1
+soupsieve==2.3.1
